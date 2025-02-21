@@ -42,7 +42,7 @@ I'm an Soon to Be Embedded Systems Engineer with 3 years of experience in . I sp
   <img src="https://img.shields.io/badge/MATLAB-56A3A6?style=for-the-badge&logo=matlab&logoColor=F4F1DE" alt="MATLAB"/>
 </div>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnuraagSun/AnuraagSun/65dd7a595ab844d60fc589c21ee025de31a7c345/ezgif-4a8c9d642f7c3c.gif" width="80" height="80"> I'm a PROMPT ENGINEERING GOD <img src="https://raw.githubusercontent.com/AnuraagSun/AnuraagSun/65dd7a595ab844d60fc589c21ee025de31a7c345/ezgif-4a8c9d642f7c3c.gif" width="80" height="80">
+  <img src="https://raw.githubusercontent.com/AnuraagSun/AnuraagSun/65dd7a595ab844d60fc589c21ee025de31a7c345/ezgif-4a8c9d642f7c3c.gif" width="80" height="80"> PROMPT ENGINEERING GOD <img src="https://raw.githubusercontent.com/AnuraagSun/AnuraagSun/65dd7a595ab844d60fc589c21ee025de31a7c345/ezgif-4a8c9d642f7c3c.gif" width="80" height="80">
 </div>
 
 ---
