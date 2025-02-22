@@ -21,7 +21,7 @@
 ---
 
 ### 🚀 About Me
-I'm an Soon to Be Embedded Systems Engineer with 3 years of experience in . I specialize in C , Rust ,and hardware design, and I love building things that solve real problems and make a difference. Whether it's designing embedded systems or exploring my passion for astronomy, I'm always excited about innovation, technology, and creating something meaningful.
+I'm an Soon to Be Embedded Systems Engineer with 3 years of experience. I specialize in C , Rust ,and hardware design, and I love building things that solve real problems and make a difference. Whether it's designing embedded systems or exploring my passion for astronomy, I'm always excited about innovation, technology, and creating something meaningful.
 
 - 🌍 Based in India (•ᴗ<)✧
 - 🔧 Currently focused on RTOS-based IoT device
