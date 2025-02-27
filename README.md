@@ -61,7 +61,7 @@ Here are some projects I'm proud of:
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnuraagSun&show_icons=true&bg_color=F4F1DE&title_color=234465&text_color=56A3A6&icon_color=A1D2D1" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuraagSun&background=F4F1DE&stroke=234465&ring=56A3A6&fire=A1D2D1&currStreakNum=234465&sideNums=56A3A6&currStreakLabel=234465&sideLabels=56A3A6&dates=A1D2D1" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuraagSun&background=%23F4F1DE&stroke=%23234465&ring=%2356A3A6&fire=%23A1D2D1&currStreakNum=%23234465&sideNums=%2356A3A6&currStreakLabel=%23234465&sideLabels=%2356A3A6&dates=%23A1D2D1" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagSun&layout=compact&bg_color=F4F1DE&title_color=234465&text_color=56A3A6&icon_color=A1D2D1" alt="Top Languages"/>
 </div>
 ---
