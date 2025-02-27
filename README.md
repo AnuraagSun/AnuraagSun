@@ -58,7 +58,6 @@ Here are some projects I'm proud of:
 
 
 ---
-
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnuraagSun&show_icons=true&bg_color=F4F1DE&title_color=234465&text_color=56A3A6&icon_color=A1D2D1" alt="GitHub Stats"/>
@@ -66,7 +65,6 @@ Here are some projects I'm proud of:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuraagSun&layout=compact&bg_color=F4F1DE&title_color=234465&text_color=56A3A6&icon_color=A1D2D1" alt="Top Languages"/>
 </div>
 ---
-
 ### 📝 Latest Blog Posts (on The way)
 <!-- Optionally, you can integrate your blog posts using RSS or manually list them -->
 
